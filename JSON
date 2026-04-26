@@ -1,0 +1,9 @@
+{
+  "name": "Wochen-Sport-Check",
+  "short_name": "Sportcheck",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f6f7f8",
+  "theme_color": "#009639",
+  "icons": []
+}
